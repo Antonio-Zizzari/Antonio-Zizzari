@@ -22,5 +22,4 @@ I am a computer scientist who graduated at the [University of Salerno](https://w
 
 ----
 
-[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=Antonio-Zizzari&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Zizzari&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
