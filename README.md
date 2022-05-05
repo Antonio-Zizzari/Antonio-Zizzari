@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, I'm [Antonio Zizzari](https://www.instagram.com/zizzariantonio/) 👋
 
-<!--
-**Antonio-Zizzari/Antonio-Zizzari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a computer scientist who graduated at the [University of Salerno](https://www.unisa.it/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔭 **Reseach-wise, I mainly focus on**:
+
+- cloud computing topics related to scalability, reliability, and IOT
+- language understanding "AI" in python
+- parallel programming on the cloud by simulating dynamical system: models defined as a cellular automaton
+
+😄 **I am open to**:
+
+- collaboration opportunities (anytime & anywhere & any type)
+
+📫 **Contact me by**:
+- Email (zizzari.antonio.lavoro@gmail.com)
+
+⚡**Fun fact**:
+ - I love to eat oranges anytime and anywhere!
+
+----
+
+[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=Antonio-Zizzari&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Zizzari&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
