@@ -6,8 +6,8 @@ I am a computer scientist who graduated at the [University of Salerno](https://w
 
 🔭 **Reseach-wise, I mainly focus on**:
 
-- cloud computing topics related to scalability and reliability
-- language understanding "AI" in python
+- Cloud computing topics related to scalability and reliability
+- DevOps
 - parallel programming on the cloud by simulating dynamical system: models defined as a cellular automaton
 
 😄 **I am open to**:
