@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:f97316&height=200&section=header&text=Antonio%20Zizzari&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Computer%20Scientist%20%C2%B7%20Cloud%20%26%20DevOps&descAlignY=58&descSize=18&animation=fadeIn" alt="Antonio Zizzari" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:f97316&height=200&section=header&text=Antonio%20Zizzari&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Computer%20Scientist%20%E2%80%A2%20Cloud%20and%20DevOps&descAlignY=58&descSize=18&animation=fadeIn" alt="Antonio Zizzari" width="100%"/>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:zizzari.antonio.lavoro@gmail.com"><img src="https://img.shields.io/badge/Email-zizzari.antonio.lavoro-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:zizzari.antonio.lavoro@gmail.com"><img src="https://img.shields.io/badge/Email-zizzari.antonio.lavoro%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.instagram.com/zizzariantonio/"><img src="https://img.shields.io/badge/Instagram-@zizzariantonio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <img src="https://komarev.com/ghpvc/?username=Antonio-Zizzari&style=for-the-badge&color=7c3aed&label=Profile+views" alt="Profile views"/>
 </p>
