@@ -11,7 +11,6 @@
 
 <p align="center">
   <a href="mailto:zizzari.antonio.lavoro@gmail.com"><img src="https://img.shields.io/badge/Email-zizzari.antonio.lavoro%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Antonio-Zizzari&style=for-the-badge&color=7c3aed&label=Profile+views" alt="Profile views"/>
 </p>
 
 ---
